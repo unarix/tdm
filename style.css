@@ -1,0 +1,21 @@
+
+html, body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("/imgs/background.png");
+    background-size: cover;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+  .container{
+    width: 100%;
+    text-align: center;
+  }
+  
+  img {
+    max-width:100%;
+    height:auto;
+    }
+  
